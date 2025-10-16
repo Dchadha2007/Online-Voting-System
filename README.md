@@ -1,7 +1,5 @@
 # Secure CLI Voting System 🗳️
 
-http://googleusercontent.com/image_generation_content/0
-
 A robust and secure command-line voting system built with Python and backed by a MySQL database. This application simulates a real-world electronic voting process, focusing on security, data integrity, and role-based access control.
 
 ---
@@ -97,3 +95,4 @@ Once the application is running, you will be presented with the main menu.
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+
